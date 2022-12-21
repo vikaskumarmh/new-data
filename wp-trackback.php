@@ -16,7 +16,7 @@ if ( empty( $wp ) ) {
 /**
  * Response to a trackback.
  *
- * Responds with an error or success XML message.
+ * Responds with an error or success XML message Done.
  *
  * @since 0.71
  *
